@@ -2,7 +2,7 @@
 EconomySMP
 ============
 
-.. attention:: Since the EconomySMP server is dead from the day we announce the server re-development, the server will never be re-opened with it's original state . So, this page will only be a time capsule for this server 
+.. attention:: Since the EconomySMP server is dead from the day we announced the server re-development, the server will not be re-opened with its original state . Threrfore, this page will only be a time capsule for this server 
 
 **The Economy Survival** [#]_ server (EcoSMP as referred to the internal unique server identifier) is a newly
 introduced server, collaborating mod packs with vanilla minecraft. (It sounds strange, but it really is)
