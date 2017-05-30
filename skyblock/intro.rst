@@ -2,7 +2,7 @@
 Skyblock
 ==========
 
-**Skyblock** [1]_ sevrer is a special type of survival server
+**Skyblock** [1]_ server is a special type of survival server
 which require you to survive and develop on a small floating
 island which is spawned upon your first join.
 
@@ -18,6 +18,8 @@ Content
    :maxdepth: 1
 
    Island
+   Economy
+   Event
 
 --------
 
