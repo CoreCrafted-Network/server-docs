@@ -36,7 +36,7 @@ At October 2014, GameHub was down and |jason| decided not to operate the server 
 Few months later, because failure of both server's domain caused by the doamin provider, a new doamin is required for
 continuing server operation. Therefore, a name of CoreCrafted Network was born , along with the "`corecrafted.net`__" domain name
 
-Uptil now, we have undergone several big changes to the content [#]_, as well as the server hardware [#]_
+Up until now, we have undergone several big changes to the content [#]_, as well as the server hardware [#]_
 
 -----
 
