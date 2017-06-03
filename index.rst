@@ -20,6 +20,7 @@ Getting Started
    :maxdepth: 2
 
    about
+   rules
    ecosmp/intro
    minigames/intro
    skyblock/intro
