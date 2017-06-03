@@ -69,11 +69,23 @@ General Survival Servers Rules
 
     a. Since there are no specific punishment on destroying unclaimed builds, theoretically you could break things as you want, but if the owner of the unclaimed build or server administrators express serious unsatisfaction over your action, you will still be punished.  ​
 
-3. If you are making automatic animal breeding machines [1] , please be reminded that each chunk have a limit for animals (Please reference to manual for the specific server). Any trouble caused by doing so will not be supported
-4. DO NOT afk near working monsters spawners. If the spawner caused serious server lag, the spawner will be disabled without needing to contact spawner owner [1]
+3. If you are making automatic animal breeding machines [2]_ , please be reminded that each chunk have a limit for animals (Please reference to manual for the specific server). Any trouble caused by doing so will not be supported
+4. DO NOT afk near working monsters spawners. If the spawner caused serious server lag, the spawner will be disabled without needing to contact spawner owner [2]_
 
 Network Attack Prevention Regulations
 --------------------------------------
 1. If we found a player initiating DDoS / DoS bandwidth attack, the player will be pernamently banned (and )
 2. Our server may deny the connection from a specific location in order to prevent unwanted attacks.
 3. Please either use English or Traditional Chinese and prevent the use of Simplified Chinese to avoid unwanted discrimination at our server.
+
+Content Creators' Notice
+------------------------
+1. Any materials and resources [#]_ created for the server is automatically copyrighted to the CoreCrafted Network with credit of author unless specification, in another word: You are not allowed to redistribute resources that is created for server usage even you are the creator / author due to copyright protection
+2. Please make sure any material/resources created without violating any of the copyright and lisence agreement when including others content in the project.
+
+.. [2] Animal Breeding Machines and Monster Spawner tower is technically not working in Survival Expert Mode - Reborn server (The server is now under development)
+.. [#] Material and Resources are generally referring to any products , including schematics, Minecraft worlds (i.e. Server spawnpoint, waiting rooms), Pixel arts, Plugins, Website images.. etc.
+
+-------
+
+Last Update: 2017-06-03

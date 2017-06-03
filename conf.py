@@ -48,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'CoreCrafted Documentation'
-copyright = '2017, ThisTNTSquid'
+copyright = '2017, CoreCrafted Network'
 author = 'ThisTNTSquid'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -155,6 +155,3 @@ texinfo_documents = [
      author, 'CoreCraftedDocumentation', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
