@@ -16,6 +16,7 @@ Our Missions
 - Provide players with new ideas and special gameplay.
 - Expand the community.
 - Expand our service on minecraft and real-life linkage.
+- Freshen up the HK Minecraft server industry , again.
 
 Our History
 ------------
@@ -36,7 +37,7 @@ At October 2014, GameHub was down and |jason| decided not to operate the server 
 Few months later, because failure of both server's domain caused by the doamin provider, a new doamin is required for
 continuing server operation. Therefore, a name of CoreCrafted Network was born , along with the "`corecrafted.net`__" domain name
 
-Up until now, we have undergone several big changes to the content [#]_, as well as the server hardware [#]_
+Up until now, we have undergone several big changes to the content [#]_, as well as the server hardware and system [#]_.
 
 -----
 

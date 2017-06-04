@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'CoreCrafted Documentation'
-copyright = '2017, CoreCrafted Network'
-author = 'ThisTNTSquid'
+copyright = '2016-2017, CoreCrafted Network'
+author = 'ThisTNTSquid, ItzJacky'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
