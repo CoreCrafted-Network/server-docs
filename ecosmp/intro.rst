@@ -29,7 +29,7 @@ What is this
 
 The EconomySMP Server was a special "masterpiece" server created by ThisTNTSquid. It features no admin server, many
 economy functions, realistics and the server mod [*]_. It is described as the "player raper" by its creator ThisTNTSquid, and
-the total development time of this server is currently the longest amnong the other server.
+the total development time of this server is currently the longest among the other server.
 
 .. [*] Server mod refers to `Slimefun`_
 .. _Slimefun: https://dev.bukkit.org/projects/slimefun
