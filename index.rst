@@ -49,5 +49,4 @@ Construction and Design:
     - CaptainJustin
     - Teddy_bb
     - 54ND5T0RM
-    - SUGAR
     - ThisTNTSquid(?)
