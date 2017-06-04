@@ -29,7 +29,7 @@ What is this
 
 SkyBlock is a server created by ItzJacky. Skyblocks is a popular game style, which features islands,
 Custom Enchants, Economy and much more! Skyblock requires you to have basic survival skills.
-Whats more fun than building the nicest island and be the No.1 on the LeaderBoard[2]_.
+Whats more fun than building the nicest island and be the No.1 on the LeaderBoard [2]_ .
 Conquer the world by building your own EMPIRE ! Join now and play!
 
 .. [2] LeaderBoard is located at Spawn
