@@ -20,6 +20,7 @@ Content
    Island
    Economy
    Event
+   Enchants
 
 --------
 
