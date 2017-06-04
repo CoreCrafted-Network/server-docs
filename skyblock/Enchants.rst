@@ -2,7 +2,7 @@ Custom Enchants
 ================
 
 Tiering
-------
+--------
 There are a total 4 tiers of Custom Enchants:
 
 - Common           Cost:1500XP Point
@@ -13,8 +13,8 @@ There are a total 4 tiers of Custom Enchants:
 
 Commands
 --------
-- To open up the Tinkerer, type ``/Tinker`` 
-- To open the Custom Enchants GUI , type ``/CE``  or ``/Enchanter`` 
+- To open up the Tinkerer, type ``/Tinker``
+- To open the Custom Enchants GUI , type ``/CE``  or ``/Enchanter``
 
 .. image:: img/cemenu.png
 	:height: 300px
@@ -27,13 +27,8 @@ Rate
 
 .. image:: img/angeldust.png
 	:height: 300px
-	
+
 .. image:: img/fixingdust.png
 	:height: 300px
 
 .. [#] Dust can be bought from the Custom Enchants Menu
-
-
-
-
-
