@@ -45,5 +45,5 @@ Up until now, we have undergone several big changes to the content [#]_, as well
 .. __: https://corecrafted.net
 .. [#] The 2 **C** s in the name of CoreCrafted Network must be in capital letter
 .. [#] The server name REDCRAFT must be in all capital letter
-.. [#] Contenet refers to the game servers and spawnpoints
+.. [#] Content refers to the game servers and spawnpoints
 .. [#] Server hardware refers to changing from dedicated hosting to self-hosting with industry-grade server hardware and firewall
