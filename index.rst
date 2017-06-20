@@ -18,9 +18,9 @@ Getting Started
 
    about
    rules
-   ecosmp/intro
-   minigames/intro
-   skyblock/intro
+   ecosmp/index
+   minigames/index
+   skyblock/index
 
 ------
 
