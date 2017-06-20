@@ -18,7 +18,9 @@ Getting Started
 
    about
    rules
+   info/index
    ecosmp/index
+   faction/index
    minigames/index
    skyblock/index
 
