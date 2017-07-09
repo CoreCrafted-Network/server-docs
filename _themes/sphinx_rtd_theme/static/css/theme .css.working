@@ -4274,7 +4274,7 @@ button[disabled] {
     background-color: #27AE60;
     text-decoration: none;
     font-weight: normal;
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;;
     box-shadow: 0px 1px 2px -1px rgba(255, 255, 255, 0.5) inset, 0px -2px 0px 0px rgba(0, 0, 0, 0.1) inset;
     outline-none: false;
     vertical-align: middle;
@@ -4830,7 +4830,7 @@ input[type="reset"],
 input[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;;
     *overflow: visible
 }
 
@@ -4853,7 +4853,7 @@ input[type="color"] {
     display: inline-block;
     border: 1px solid #ccc;
     font-size: 80%;
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;;
     box-shadow: inset 0 1px 3px #ddd;
     border-radius: 0;
     -webkit-transition: border .3s linear;
@@ -4967,7 +4967,7 @@ textarea {
     overflow: auto;
     vertical-align: top;
     width: 100%;
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif
+    font-family: 'Nunito', sans-serif;
 }
 
 select,
@@ -5492,7 +5492,7 @@ html {
 }
 
 body {
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;;
     font-weight: normal;
     color: #404040;
     min-height: 100%;
@@ -5579,7 +5579,7 @@ h6,
 legend {
     margin-top: 0;
     font-weight: 700;
-    font-family: "Roboto Slab", "ff-tisa-web-pro", "Georgia", Arial, sans-serif
+    font-family: "Quicksand", sans-serif;
 }
 
 p {
@@ -6744,7 +6744,7 @@ footer span.commit .rst-content tt,
     color: #fcfcfc;
     background: #1f1d1d;
     border-top: solid 10px #343131;
-    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;;
     z-index: 400
 }
 
@@ -7078,7 +7078,7 @@ footer span.commit .rst-content tt,
 
 .rst-content .sidebar .sidebar-title {
     display: block;
-    font-family: "Roboto Slab", "ff-tisa-web-pro", "Georgia", Arial, sans-serif;
+    font-family: "Quicksand", sans-serif;;
     font-weight: bold;
     background: #e1e4e5;
     padding: 6px 12px;
@@ -7371,45 +7371,45 @@ span[id*='MathJax-Span'] {
 }
 
 @font-face {
-    font-family: "Lato";
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 400;
-    src: local("Lato Regular"), local("Lato-Regular"), url(../fonts/Lato-Regular.ttf) format("truetype")
+    src: local("Nunito Regular"), local("Nunito-Regular"), url(../fonts/Nunito-Regular.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Lato";
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 700;
-    src: local("Lato Bold"), local("Lato-Bold"), url(../fonts/Lato-Bold.ttf) format("truetype")
+    src: local("Nunito Bold"), local("Nunito-Bold"), url(../fonts/Nunito-Bold.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Lato";
+    font-family: "Nunito";
     font-style: italic;
     font-weight: 400;
-    src: local("Lato Italic"), local("Lato-Italic"), url(../fonts/Lato-Italic.ttf) format("truetype")
+    src: local("Nunito Italic"), local("Nunito-Italic"), url(../fonts/Nunito-Italic.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Lato";
+    font-family: "Nunito";
     font-style: italic;
     font-weight: 700;
-    src: local("Lato Bold Italic"), local("Lato-BoldItalic"), url(../fonts/Lato-BoldItalic.ttf) format("truetype")
+    src: local("Nunito Bold Italic"), local("Nunito-BoldItalic"), url(../fonts/Nunito-BoldItalic.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Roboto Slab";
+    font-family: "Quicksand";
     font-style: normal;
     font-weight: 400;
-    src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../fonts/RobotoSlab-Regular.ttf) format("truetype")
+    src: local("Quicksand Bold"), local("Quicksand-Bold"), url(../fonts/Quicksand-Bold.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Roboto Slab";
+    font-family: "Quicksand";
     font-style: normal;
     font-weight: 700;
-    src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../fonts/RobotoSlab-Bold.ttf) format("truetype")
+    src: local("Quicksand Bold"), local("Quicksand-Bold"), url(../fonts/Quicksand-Bold.ttf) format("truetype")
 }
 
 
