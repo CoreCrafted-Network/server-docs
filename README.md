@@ -33,7 +33,7 @@ If you decide to do massive modifications for example,
 
 **Useful Links**
 * Tutorial on contributing:
-* Reference page on ReStructuredText: http://docutils.sourceforge.net/rst.html
+* Reference page for ReStructuredText: http://docutils.sourceforge.net/rst.html
 
 
 ## Building 
