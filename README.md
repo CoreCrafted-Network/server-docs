@@ -19,7 +19,7 @@ If you found out ***a small amount of*** minor mistakes for example:
 * inappropriate wordings
 * typing mistakes 
 
-and you are patient enough to wait for the docs author to update, you can consider making a post at our [forum](https://forum.corecrafted.net/c/feedback) about the issue.
+and you are patient enough to wait for the docs author to update, you can consider making a post at our [forum](https://forum.corecrafted.net/c/feedback) or posting an issue post right at the [repository issue page](https://lab.corecrafted.net/ThisTNTSquid/server-docs/issues) about the issue. 
 
 Alternatively, if you prefer a more direct approach, you could fork the whole project repository to your account , make changes and commit them, then make a 
 merge request. There are links to tutorials and reference to editing and contributing in the next section
