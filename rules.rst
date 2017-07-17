@@ -1,15 +1,15 @@
 =============
 Server Rules
 =============
-For every players [#]_ joining our server network , you are required to follow the server rules stated below and NOT to break any of them for the sake of
+For every player [#]_ joining our server network , you are required to follow the server rules stated below and NOT to break any of them for the sake of
 server safety and game fairness, ultimately maintain a good gaming experience at our server.
 
 This set of rule is humanly designed keep things smooth only , and have no intend to restrict your freedom.
-However, if you have opinion / found the rule not resaonable for you to follow, please kindly contact ThisTNTSquid or post a thread at our discussion forum.
+However, if you have opinion / found the rule not reasonable for you to follow, please kindly contact ThisTNTSquid or post a thread at our discussion forum.
 
 Have a nice time playing :)
 
-.. [#] "Player" is meaning all users joining the server, reguardless of the rank and reputation of the user in server
+.. [#] "Player" is meaning all users joining the server, regardless of the rank and reputation of the user in server
 
 --------
 
@@ -22,7 +22,7 @@ Universal Rules
 
 2. Do not use hacked clients. Any player found using hacked client will be given punishment according to the degree of violation
 
-    a. Even there are no actual action on hacking, if the player state that hacks will be used , that player will also be banned in order to protect other player's benefit.​
+    a. Even there is no actual action on hacking, if the player state that hacks will be used , that player will also be banned in order to protect other player's benefit.​
 
 3. No spamming / repeatedly asking the same content
 4. Please respect other players and do not use foul language to curse other players
@@ -48,7 +48,7 @@ Administrator Rules
     e. No grieving
     f. Do not constantly killing other players
     g. Do not forcefully apply nickname to other players
-    h. Do not force other player to teleport to you without any notification and permit from that player
+    h. Do not force other players to teleport to you without any notification and permit from that player
     i. Do not attempt to cause server economy unbalance, including
 
         i) Generating money and give them to player ;
@@ -67,21 +67,21 @@ General Survival Servers Rules
 1. No malicious claiming of lands (i.e. claiming land around other's land, and cause trouble to their movement)
 2. Love the nature, love your neighbour, do your best to protect it.
 
-    a. Since there are no specific punishment on destroying unclaimed builds, theoretically you could break things as you want, but if the owner of the unclaimed build or server administrators express serious unsatisfaction over your action, you will still be punished.  ​
+    a. Since there is no specific punishment on destroying unclaimed builds, theoretically you could break things as you want, but if the owner of the unclaimed build or server administrators expresses serious unsatisfaction over your action, you will still be punished.  ​
 
-3. If you are making automatic animal breeding machines [2]_ , please be reminded that each chunk have a limit for animals (Please reference to manual for the specific server). Any trouble caused by doing so will not be supported
+3. If you are making automatic animal breeding machines [2]_ , please be reminded that each chunk has a limit for animals (For details information, please reference to manual for the specific server). Any trouble caused by doing so will not be supported
 4. DO NOT afk near working monsters spawners. If the spawner caused serious server lag, the spawner will be disabled without needing to contact spawner owner [2]_
 
 Network Attack Prevention Regulations
 --------------------------------------
-1. If we found a player initiating DDoS / DoS bandwidth attack, the player will be pernamently banned (and )
+1. If we found a player initiating DDoS / DoS bandwidth attack, the player will be permanently banned (and )
 2. Our server may deny the connection from a specific location in order to prevent unwanted attacks.
 3. Please either use English or Traditional Chinese and prevent the use of Simplified Chinese to avoid unwanted discrimination at our server.
 
 Content Creators' Notice
 ------------------------
 1. Any materials and resources [#]_ created for the server is automatically copyrighted to the CoreCrafted Network with credit of author unless specified, in another word: You are not allowed to redistribute resources created for server usage even you are the creator / author due to copyright protection
-2. Please make sure any material/resources are created without infringing any of the copyright and lisence agreement when including others content in the project.
+2. Please make sure any material/resources are created without infringing any of the copyright and licence agreement when including others content in the project.
 
 .. [2] Animal Breeding Machines and Monster Spawner tower is technically not working in Survival Expert Mode - Reborn server (The server is now under development)
 .. [#] Material and Resources are generally referring to any products , including schematics, Minecraft worlds (i.e. Server spawnpoint, waiting rooms), Pixel arts, Plugins, Website images.. etc.

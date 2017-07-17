@@ -48,4 +48,4 @@ Cobble Generator
 
 - Cobble Gen will generate random ores(Higher Tier Ores are Rarer! Obviously!!!)!
 
-.. [#] Shop can be access with /warp shop or walking from Spawn
+.. [#] Shop can be accessed with /warp shop or by walking from Spawn

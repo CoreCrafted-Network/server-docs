@@ -43,7 +43,7 @@ Software Development:
     - ThisTNTSquid
     - Black_Rubbit
       
-Hardware and Infrastrusture:
+Hardware and Infrastructure:
     - jasonc123456
     - ThisTNTSquid
 

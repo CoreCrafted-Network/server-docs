@@ -22,8 +22,8 @@ Commands
 Rate
 ----
 - Dust [#]_ can be bought from the shop with Money or tinkering items with enchants
-- Angel Dust can increase the success rate of the enchant book
-- Fixing Dust can decrease the destroy rate of the enchant book
+- Angel Dust can increase the success rate of the enchanted book
+- Fixing Dust can decrease the destroy rate of the enchanted book
 
 .. image:: img/angeldust.png
 	:height: 300px

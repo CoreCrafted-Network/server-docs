@@ -3,7 +3,7 @@ Skyblock
 ==========
 
 **Skyblock** [1]_ server is a special type of survival server
-which require you to survive and develop on a small floating
+which requires you to survive and develop on a small floating
 island which is spawned upon your first join.
 
 This server is an imported server from our partner server
@@ -39,8 +39,8 @@ Features
 
 * Shops
 * Custom Enchants
-* Increaed Mob DropS
+* Increased Mob Drops
 * Custom Islands Preset
 * Quests
 * Custom Level Calculation
-* more useless stuffs.....
+* more useless stuff.....
