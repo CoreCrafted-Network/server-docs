@@ -32,7 +32,7 @@ If you decide to do massive modifications for example,
 
 
 **Useful Links**
-* Tutorial on contributing:
+* Tutorial on contributing: https://lab.corecrafted.net/ThisTNTSquid/server-docs/wikis/home
 * Reference page for ReStructuredText: http://docutils.sourceforge.net/rst.html
 
 
