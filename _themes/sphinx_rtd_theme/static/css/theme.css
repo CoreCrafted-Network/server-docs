@@ -7402,7 +7402,7 @@ span[id*='MathJax-Span'] {
     font-family: "Quicksand";
     font-style: normal;
     font-weight: 400;
-    src: local("Quicksand Bold"), local("Quicksand-Bold"), url(../fonts/Quicksand-Bold.ttf) format("truetype")
+    src: local("Nunito Bold"), local("Nunito-Bold"), url(../fonts/Nunito-Bold.ttf) format("truetype")
 }
 
 @font-face {
