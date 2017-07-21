@@ -2,10 +2,11 @@
 # see https://docs.gitlab.com/ce/ci/yaml/README.html for all available options
 
 # you can delete this line if you're not using Docker
-image: alpine-python:latest-slim
+image: alpine:latest
 
 before_script:
    - echo "Installing Sphinx"
+   - apk add --update python python-dev py-pip build-base
    - pip install sphinx
    
 after_script:
