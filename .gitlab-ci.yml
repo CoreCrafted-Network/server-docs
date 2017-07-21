@@ -6,7 +6,7 @@ image: alpine:latest
 
 before_script:
    - echo "Setting up system amd Sphinx"
-   - apk add --update python3
+   - apk add --update python3 py-pip
    - pip install sphinx
    
 after_script:
