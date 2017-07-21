@@ -13,6 +13,11 @@ However, nothing is perfect that there could be some minor mistakes we missed ou
 
 > Also, **NEVER** make lie and advertisements when modifying, or changing truths to something else maliciously (e.g. changing "Server Owner" to someone else)
 
+### Branching
+There are currently 2 master branches, one is "master" , while another one is "master_zh-hk". The "master" branch is used to hold the production English version of the documentation, and
+the "master_zh-hk" is used to hold production Traditional Chinese version of the documentation. Therefore, if you are making a merge request, make sure you choose the right branch
+to merge so that the language of both the fork and original branch matches.
+
 ### Minor Mistakes / Improvements:
 If you found out ***a few*** minor mistakes for example:
 * spelling mistakes
