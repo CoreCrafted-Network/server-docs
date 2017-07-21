@@ -35,6 +35,10 @@ If you decide to do massive modifications for example,
 * Tutorial on contributing: https://lab.corecrafted.net/ThisTNTSquid/server-docs/wikis/home
 * Reference page for ReStructuredText: http://docutils.sourceforge.net/rst.html
 
+## Translating
+Some of you here might want to have a different language version of our official documentation. However, I'm really busy on developing plugins and servers, and thus wouldn't have any
+extra time for me to sit down and translate the whole thing into another language. Therefore, if you wish to read our server documentation in another language, please consider forking
+this project out and work on the translation with others that have extra time, then do a merge request on our project. Your hard work is always appreciated :smile:
 
 ## Building
 If you like to have everything stored locally so that you don't need to visit our documentation site everytime you want to read it, you can consider cloning the source to your computer and building it locally.
