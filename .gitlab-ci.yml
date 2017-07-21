@@ -5,8 +5,8 @@
 image: alpine:latest
 
 before_script:
-   - echo "Installing Sphinx"
-   - apk add --update python python-dev py-pip build-base
+   - echo "Setting up system amd Sphinx"
+   - apk add --update python3
    - pip install sphinx
    
 after_script:
@@ -19,6 +19,7 @@ build:
  stage: build
  script:
    - mkdir source
+   - echo shopt -s extglob >> .bashrc
    - mv !(source) source
    - sphinx-build -a -b html source build
    
