@@ -19,8 +19,9 @@ build:
  stage: build
  script:
    - mkdir source
-   - echo shopt -s extglob >> .bashrc
+   - shopt -s extglob dotglob
    - mv !(source) source
+   - shopt -u dotglob
    - sphinx-build -a -b html source build
    
 package:
