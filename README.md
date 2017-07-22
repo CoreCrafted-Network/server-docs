@@ -15,7 +15,7 @@ However, nothing is perfect that there could be some minor mistakes we missed ou
 
 ### Branching
 * **"master" branch**: The main production branch for English Official Version . If you want to clone this branch, use `git clone https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in Git Bash
-* **"master_zh-hk" branch**: The main production branch for Traditional Chinese Translation Version. If you want to clone this branch , use `git clone -b master_zh-hk https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in Git Bash
+* **"master_zh-hk" branch**: *It is deleted an no longer exist* (If you want to contribute to the translation project, please get to @ItzJacky's Repository here at https://lab.corecrafted.net/ItzJacky/server-docs)
 
 
 
