@@ -14,9 +14,10 @@ However, nothing is perfect that there could be some minor mistakes we missed ou
 > Also, **NEVER** make lie and advertisements when modifying, or changing truths to something else maliciously (e.g. changing "Server Owner" to someone else)
 
 ### Branching
-There are currently 2 master branches, one is "master" , while another one is "master_zh-hk". The "master" branch is used to hold the production English version of the documentation, and
-the "master_zh-hk" is used to hold production Traditional Chinese version of the documentation. Therefore, if you are making a merge request, make sure you choose the right branch
-to merge so that the language of both the fork and original branch matches.
+* **"master" branch**: The main production branch for English Official Version . If you want to clone this branch, use `git clone https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in Git Bash
+* **"master_zh-hk" branch**: The main production branch for Traditional Chinese Translation Version. If you want to clone this branch , use `git clone -b master_zh-hk https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in Git Bash
+
+
 
 ### Minor Mistakes / Improvements:
 If you found out ***a few*** minor mistakes for example:
