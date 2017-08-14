@@ -14,7 +14,7 @@ However, nothing is perfect that there could be some minor mistakes we missed ou
 > Also, **NEVER** make lie and advertisements when modifying, or changing truths to something else maliciously (e.g. changing "Server Owner" to someone else)
 
 ### Branching
-* **"master" branch**: The main production branch for English Official Version . If you want to clone this branch, use `git clone https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in Git Bash
+* **"master" branch**: The main production branch for English Official Version . If you want to clone this branch, use `https://github.com/CoreCrafted-Network/server-docs.git` in Git Bash
 * **"master_zh-hk" branch**: *It is deleted an no longer exist* (If you want to contribute to the translation project, please get to @ItzJacky's Repository here at https://lab.corecrafted.net/ItzJacky/server-docs)
 
 
@@ -25,7 +25,7 @@ If you found out ***a few*** minor mistakes for example:
 * inappropriate wordings
 * typing mistakes
 
-and you are patient enough to wait for the docs author to update, you can consider making a post on our [forum](https://forum.corecrafted.net/c/feedback) or posting an issue post right at the [repository issue page](https://lab.corecrafted.net/ThisTNTSquid/server-docs/issues) about the issue.
+and you are patient enough to wait for the docs author to update, you can consider making a post on our [forum](https://forum.corecrafted.net/c/feedback) or posting an issue post right at the [repository issue page](https://github.com/CoreCrafted-Network/server-docs/issues) about the issue.
 
 Alternatively, if you prefer a more direct approach, you could fork the whole project repository to your account , make changes and commit them, then make a
 merge request. There are links to tutorials and reference to editing and contributing in the next section
@@ -38,7 +38,7 @@ If you decide to do massive modifications for example,
 
 
 **Useful Links**
-* Tutorial on contributing: https://lab.corecrafted.net/ThisTNTSquid/server-docs/wikis/home
+* Tutorial on contributing: https://lab.corecrafted.net/ThisTNTSquid/server-docs/wikis/home *(This tutorial is intended to work on our server gitlab server, but the procedure is more like the same if you want to contribute on GitHub as well as these 2 are very similar thing)*
 * Reference page for ReStructuredText: http://docutils.sourceforge.net/rst.html
 
 ## Translating
@@ -63,7 +63,7 @@ Our documentation is built with [Sphinx](http://www.sphinx-doc.org/en/stable/), 
 2. Setup Sphinx with executing `pip install Sphinx` in terminal (If you are unable to use this command on windows computers, please follow the quick fix [Here](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation))
 3. Now create a folder named whatever you like
 4. Right click inside that folder then open "Git Bash Here"
-5. Type in `git clone https://lab.corecrafted.net/ThisTNTSquid/server-docs.git` in the terminal, and execute it
+5. Type in `https://github.com/CoreCrafted-Network/server-docs.git` in the terminal, and execute it
 6. Rename the folder from "server-docs" to "source"
 7. Now open powershell/cmd inside the workspace folder containing "source" folder (In case you don't know, it's Shift-right click -> "Open powershell Windows Here"/"Open Command Prompt Here")
 8. Run `sphinx-build -a -b html source build`
