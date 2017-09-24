@@ -11,7 +11,7 @@ However, nothing is perfect that there could be some minor mistakes we missed ou
 
 > Please keep in mind that every merge request is moderated , and will only be merged to master once we make sure everything is correct and accurate, so, if your modification/enhancement contains "facts" which we are unsure, please provide us with evidence so that your changes could be approved quicker
 
-> Also, **NEVER** make lie and advertisements when modifying, or changing truths to something else maliciously (e.g. changing "Server Owner" to someone else)
+> Also, **NEVER** make false statements and advertisements when modifying, or changing truth inside to something else maliciously (e.g. changing "Server Owner" to someone else)
 
 ### Branching
 * **"master" branch**: The main production branch for English Official Version . If you want to clone this branch, use `https://github.com/CoreCrafted-Network/server-docs.git` in Git Bash
@@ -35,6 +35,8 @@ merge request. There are links to tutorials and reference to editing and contrib
 If you decide to do massive modifications for example,
 * creating brand new page that hasn't on the docs before
 * improve wordings on the whole documentation
+
+Please consider directly cloning the repository, editing it, and make a pull request on this (the CoreCrafted-Network/server-doc) repository. Once your changes are merged, they will be seen in the next update
 
 
 **Useful Links**
