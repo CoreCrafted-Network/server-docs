@@ -51,7 +51,4 @@ Construction and Design:
     - CaptainJustin
     - Teddy_bb
     - 54ND5T0RM
-    - ThisTNTSquid(?)3
-    - MAB_87
-    - Ste_ak
-    - Unhappy_Bryan
+    - ThisTNTSquid(?)
