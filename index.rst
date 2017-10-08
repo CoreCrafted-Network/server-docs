@@ -36,12 +36,10 @@ Games Development:
 Survival Servers Development:
     - ThisTNTSquid
     - JC2048
-    - Lugarius
-    - Delta_c
 
 Software Development:
     - ThisTNTSquid
-    - Black_Rubbit
+    - Black_Rubbit(?)
       
 Hardware and Infrastructure:
     - jasonc123456
@@ -52,3 +50,5 @@ Construction and Design:
     - Teddy_bb
     - 54ND5T0RM
     - ThisTNTSquid(?)
+
+.. info:: Intersting fact: Most of the things are done by the 3 monsters: ThisTNTSquid, Jason and Jacky :)
