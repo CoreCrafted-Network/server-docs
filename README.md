@@ -65,8 +65,7 @@ Our documentation is built with [Sphinx](http://www.sphinx-doc.org/en/stable/), 
 2. Setup Sphinx with executing `pip install Sphinx` in terminal (If you are unable to use this command on windows computers, please follow the quick fix [Here](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation))
 3. Now create a folder named whatever you like
 4. Right click inside that folder then open "Git Bash Here"
-5. Type in `https://github.com/CoreCrafted-Network/server-docs.git` in the terminal, and execute it
-6. Rename the folder from "server-docs" to "source"
-7. Now open powershell/cmd inside the workspace folder containing "source" folder (In case you don't know, it's Shift-right click -> "Open powershell Windows Here"/"Open Command Prompt Here")
-8. Run `sphinx-build -a -b html source build`
-9. The offline documentation is now sit in the "build" folder and you can now move the folder to somewhere else and rename it. The index page(The main page of documentation) is at `\index.html`. Open it with any web browser and the whole documentation should be working just fine as the one you see at our online site
+5. Type in `https://github.com/CoreCrafted-Network/server-docs.git source` in the terminal, and execute it
+6. Now open powershell/cmd inside the workspace folder containing "source" folder (In case you don't know, it's Shift-right click -> "Open powershell Windows Here"/"Open Command Prompt Here")
+7. Run `sphinx-build -a -b html source build`
+8. The offline documentation is now sit in the "build" folder and you can now move the folder to somewhere else and rename it. The index page(The main page of documentation) is at `\index.html`. Open it with any web browser and the whole documentation should be working just fine as the one you see at our online site
