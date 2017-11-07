@@ -3,7 +3,7 @@ CoreCrafted Reference Manual
 =============================
 
 .. attention:: This reference manual (i.e. documentation) site is currently under remake. All pull requests on the repository
-of this site will be halted and stopped updating. Expect outdated informations here
+of this site will be halted and this site will be unmaintained before the release of new docs. Expect outdated informations here
 
 
 Welcome to the CoreCrafted Network Server Documentation
