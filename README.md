@@ -1,5 +1,6 @@
 # CoreCrafted Network Documentation
 
+>>> Notice: The repository for the server documentation has been moved to [here](https://github.com/CoreCrafted-Network/docs), please do not open any issues or PR in the current repository
 
 Welcome to the CoreCrafted Network Server Documentation source page.
 
