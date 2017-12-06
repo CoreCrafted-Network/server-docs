@@ -3,9 +3,9 @@ Island management
 
 Player
 ------
-- To claim your own island , type ``/is``
+- To claim your own island , type ``/is`` -> A list of avalible island preset will be shown for selection!
 - For going back to your island, type ``/is go``
-- To calculate your island level, type ``/is level``
+- To calculate your island level, type ``/is level`` and wait for 1-3 seconds
 - To join/invite another player , you need an invitation from them ``/is invite [playername]`` ,then type ``/is accept [Inviter]`` once you receive the invitation
 - To visit another player's island , type ``/is warp [playername]`` (They need to have a warp sign setted up!)
 - (layout of the welcome sign): ::
@@ -15,13 +15,13 @@ Player
 
 
 - To ban a player from your island, type ``/is ban [playername]``
-- To temp. kick a player from your island, type ``/is expel [playername]``
+- To temporaily kick a player from your island, type ``/is expel [playername]``
 - To lock/unlock your island, type ``/is lock``
-- To join/leave island chat, type ``/is teamchat``
+- To enable/disable island chat, type ``/is teamchat``
 
 Chest Protection
 -----------------
-- To Lock a chest / container, right click the chest you want to lock with a SIGN
+- To Lock a chest / container, right click the chest that you want to lock with a SIGN
 - To grant access to everyone , place a SIGN on another side of the chest
 - To grant access to a specific player, place a SIGN on another side of the chest with: ::
 
